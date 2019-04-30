@@ -1,5 +1,5 @@
 # LCS Algorithm
-This is a sample project for implementation LCS (Longest Common Subsequence) algorithm with c++ language programming
+This is a sample project for implementation LCS (Longest Common Subsequence) algorithm with C++ language programming
 
 Description:
 
