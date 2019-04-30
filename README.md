@@ -13,6 +13,7 @@ lenght of string for answer is: 2
 result is :
 
   bc
+  
   ab
   
 Notice: This sample work at time O(n*m) find the largest common sub-sequence for the two strings.
