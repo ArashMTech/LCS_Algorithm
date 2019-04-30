@@ -6,6 +6,7 @@ Description:
 1. Type first string like this => bcab
 2. Type second string like this => abc
 3. After you press enter, lcs algorithm calculated.
+
 Result:
 
 lenght of string for answer is: 2
