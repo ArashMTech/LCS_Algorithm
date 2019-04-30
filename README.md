@@ -9,7 +9,8 @@ Description:
 
 Result:
 
-lenght of string for answer is: 2
+lenght of string for answer is : 2
+
 result is :
 
   bc
